@@ -1,0 +1,302 @@
+[
+    {
+        "id_cliente": 156464,
+        "nombre": "Contoso S.A.",
+        "descripcion": "Descripción de la empresa.",
+        "categoria": "Medicina",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJtBus7afumof5kfZW27n62LkUN-wdvoakA&s",
+        "calificacion": 4.5,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Guayaquil",
+            "provincia": "Guayas",
+            "calle_principal": "Av. 9 de Octubre",
+            "calle_secundaria": "Av. Malecon"
+        }
+    },
+    {
+        "id_cliente": 156465,
+        "nombre": "Fabrikam S.A.",
+        "descripcion": "Otra descripción de empresa.",
+        "categoria": "Tecnología",
+        "logo": "https://cdn.prod.website-files.com/62a85c75feb9bdf4905f9f24/66f568a04cf5275fd7481aef_668f809f2232881730d50130_hero.jpeg",
+        "calificacion": 4.2,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Quito",
+            "provincia": "Pichincha",
+            "calle_principal": "Av. Amazonas",
+            "calle_secundaria": "Av. Naciones Unidas"
+        }
+    },
+    {
+        "id_cliente": 156466,
+        "nombre": "AdventureWorks S.A.",
+        "descripcion": "Empresa de aventuras.",
+        "categoria": "Turismo",
+        "logo": "https://hdp.com.ec/hdp/wp-content/uploads/2017/05/hdp-banner.jpg",
+        "calificacion": 4.7,
+        "ubicacion": {
+            "pais": "Perú",
+            "ciudad": "Lima",
+            "provincia": "Lima",
+            "calle_principal": "Av. Javier Prado",
+            "calle_secundaria": "Av. Arequipa"
+        }
+    },
+    {
+        "id_cliente": 156467,
+        "nombre": "TechCorp S.A.",
+        "descripcion": "Empresa líder en tecnología.",
+        "categoria": "Tecnología",
+        "logo": "https://moint.ec/wp-content/uploads/2025/01/Empresas-colombianas.jpg",
+        "calificacion": 4.8,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Cuenca",
+            "provincia": "Azuay",
+            "calle_principal": "Av. Loja",
+            "calle_secundaria": "Av. Solano"
+        }
+    },
+    {
+        "id_cliente": 156468,
+        "nombre": "HealthPlus S.A.",
+        "descripcion": "Empresa de servicios médicos.",
+        "categoria": "Medicina",
+        "logo": "https://ekosnegocios.com/image/posts/header/8221.jpg",
+        "calificacion": 4.6,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Manta",
+            "provincia": "Manabí",
+            "calle_principal": "Av. 24 de Mayo",
+            "calle_secundaria": "Av. Flavio Reyes"
+        }
+    },
+    {
+        "id_cliente": 156469,
+        "nombre": "TravelEcuador S.A.",
+        "descripcion": "Empresa de turismo en Ecuador.",
+        "categoria": "Turismo",
+        "logo": "https://img.goraymi.com/2021/06/29/892be3651314ca15cd17b6480f0fd3ae_xl.jpg",
+        "calificacion": 4.4,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Quito",
+            "provincia": "Pichincha",
+            "calle_principal": "Av. Shyris",
+            "calle_secundaria": "Av. Naciones Unidas"
+        }
+    },
+    {
+        "id_cliente": 156470,
+        "nombre": "EcoFarm S.A.",
+        "descripcion": "Empresa de productos orgánicos.",
+        "categoria": "Agricultura",
+        "logo": "https://news.agrofystatic.com/casafe_argentina_agrofy_news_insumos.jpg?d=620x375",
+        "calificacion": 4.3,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Ambato",
+            "provincia": "Tungurahua",
+            "calle_principal": "Av. Cevallos",
+            "calle_secundaria": "Av. Montalvo"
+        }
+    },
+    {
+        "id_cliente": 156471,
+        "nombre": "InnovaTech S.A.",
+        "descripcion": "Empresa de innovación tecnológica.",
+        "categoria": "Tecnología",
+        "logo": "https://www.bizneo.com/blog/wp-content/uploads/2020/09/Necesidades-esenciales-tecnolog%C3%ADa.png",
+        "calificacion": 4.9,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Guayaquil",
+            "provincia": "Guayas",
+            "calle_principal": "Av. Francisco de Orellana",
+            "calle_secundaria": "Av. Juan Tanca Marengo"
+        }
+    },
+    {
+        "id_cliente": 156472,
+        "nombre": "BioHealth S.A.",
+        "descripcion": "Empresa de productos naturales.",
+        "categoria": "Medicina",
+        "logo": "https://www.medvidasalud.com/wp-content/uploads/que-es-medicina-laboral-y-cual-es-su-funcion-principal.webp",
+        "calificacion": 4.7,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Quito",
+            "provincia": "Pichincha",
+            "calle_principal": "Av. 6 de Diciembre",
+            "calle_secundaria": "Av. Colón"
+        }
+    },
+    {
+        "id_cliente": 156473,
+        "nombre": "GreenTravel S.A.",
+        "descripcion": "Empresa de turismo ecológico.",
+        "categoria": "Turismo",
+        "logo": "https://www.turismo.gob.ec/wp-content/uploads/2020/01/Fitur2020.jpeg",
+        "calificacion": 4.5,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Cuenca",
+            "provincia": "Azuay",
+            "calle_principal": "Av. Fray Vicente Solano",
+            "calle_secundaria": "Av. 12 de Abril"
+        }
+    },
+    {
+        "id_cliente": 156474,
+        "nombre": "AgroEcuador S.A.",
+        "descripcion": "Empresa de productos agrícolas.",
+        "categoria": "Agricultura",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGimGAxTKms6bi6TF4QUdzi-yNqMP2UFGyGQ&s",
+        "calificacion": 4.2,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Riobamba",
+            "provincia": "Chimborazo",
+            "calle_principal": "Av. Daniel León Borja",
+            "calle_secundaria": "Av. Primera Constituyente"
+        }
+    },
+    {
+        "id_cliente": 156475,
+        "nombre": "TechSolutions S.A.",
+        "descripcion": "Soluciones tecnológicas para empresas.",
+        "categoria": "Tecnología",
+        "logo": "https://miro.medium.com/v2/resize:fit:992/1*bFd8ijOumsmhoGZv-w5PeA.jpeg",
+        "calificacion": 4.8,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Guayaquil",
+            "provincia": "Guayas",
+            "calle_principal": "Av. Juan Tanca Marengo",
+            "calle_secundaria": "Av. Francisco de Orellana"
+        }
+    },
+    {
+        "id_cliente": 156476,
+        "nombre": "MediCare S.A.",
+        "descripcion": "Empresa de servicios médicos.",
+        "categoria": "Medicina",
+        "logo": "https://www.medvidasalud.com/wp-content/uploads/medicina-laboral-y-salud-ocupacional-portada-medvida-salud-ocupacional.webp",
+        "calificacion": 4.6,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Quito",
+            "provincia": "Pichincha",
+            "calle_principal": "Av. Amazonas",
+            "calle_secundaria": "Av. Naciones Unidas"
+        }
+    },
+    {
+        "id_cliente": 156477,
+        "nombre": "EcoTour S.A.",
+        "descripcion": "Empresa de turismo sostenible.",
+        "categoria": "Turismo",
+        "logo": "https://www.galileo.edu/idea/files/2023/03/Interno-825x510.jpg",
+        "calificacion": 4.4,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Cuenca",
+            "provincia": "Azuay",
+            "calle_principal": "Av. Loja",
+            "calle_secundaria": "Av. Solano"
+        }
+    },
+    {
+        "id_cliente": 156478,
+        "nombre": "AgroTech S.A.",
+        "descripcion": "Tecnología aplicada a la agricultura.",
+        "categoria": "Agricultura",
+        "logo": "https://www.intagri.com/assets/images/articulos/categoria1/ganaderia/art16-La-Gesti%C3%B3n-de-una-Empresa-Agropecuaria/La-innovaci%C3%B3n-o-idea-original-comienza-con-un-an%C3%A1lisis-de-las-oportunidades.jpg",
+        "calificacion": 4.3,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Guayaquil",
+            "provincia": "Guayas",
+            "calle_principal": "Av. 9 de Octubre",
+            "calle_secundaria": "Av. Malecon"
+        }
+    },
+    {
+        "id_cliente": 156479,
+        "nombre": "TechInnovate S.A.",
+        "descripcion": "Innovación en tecnología.",
+        "categoria": "Tecnología",
+        "logo": "https://cloudfront-us-east-1.images.arcpublishing.com/semana/P5U6I2ZKW5AJ3PCF5MPQUHANKU.jpg",
+        "calificacion": 4.9,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Quito",
+            "provincia": "Pichincha",
+            "calle_principal": "Av. Amazonas",
+            "calle_secundaria": "Av. Naciones Unidas"
+        }
+    },
+    {
+        "id_cliente": 156480,
+        "nombre": "HealthyLife S.A.",
+        "descripcion": "Empresa de productos saludables.",
+        "categoria": "Medicina",
+        "logo": "https://blog.humana.med.ec/hs-fs/hubfs/empresa-beneficios-plan-medico-y-salud-medicina-prepagada-contratar-plan-empresarial-corporativo.jpg?width=800&name=empresa-beneficios-plan-medico-y-salud-medicina-prepagada-contratar-plan-empresarial-corporativo.jpg",
+        "calificacion": 4.7,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Guayaquil",
+            "provincia": "Guayas",
+            "calle_principal": "Av. Francisco de Orellana",
+            "calle_secundaria": "Av. Juan Tanca Marengo"
+        }
+    },
+    {
+        "id_cliente": 156481,
+        "nombre": "EcoAdventures S.A.",
+        "descripcion": "Empresa de turismo de aventura.",
+        "categoria": "Turismo",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzXJ3W8VGnqt43bvaNL6x9GWVU9MCAa0D-Dw&s",
+        "calificacion": 4.5,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Cuenca",
+            "provincia": "Azuay",
+            "calle_principal": "Av. Fray Vicente Solano",
+            "calle_secundaria": "Av. 12 de Abril"
+        }
+    },
+    {
+        "id_cliente": 156482,
+        "nombre": "AgroSolutions S.A.",
+        "descripcion": "Soluciones agrícolas innovadoras.",
+        "categoria": "Agricultura",
+        "logo": "https://www.intagri.com/assets/images/articulos/categoria1/ganaderia/art16-La-Gesti%C3%B3n-de-una-Empresa-Agropecuaria/La-innovaci%C3%B3n-o-idea-original-comienza-con-un-an%C3%A1lisis-de-las-oportunidades.jpg",
+        "calificacion": 4.2,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Riobamba",
+            "provincia": "Chimborazo",
+            "calle_principal": "Av. Daniel León Borja",
+            "calle_secundaria": "Av. Primera Constituyente"
+        }
+    },
+    {
+        "id_cliente": 156483,
+        "nombre": "TechWorld S.A.",
+        "descripcion": "Empresa líder en tecnología global.",
+        "categoria": "Tecnología",
+        "logo": "https://marketing.wearedrew.co/hubfs/istock-817442226.jpg",
+        "calificacion": 4.8,
+        "ubicacion": {
+            "pais": "Ecuador",
+            "ciudad": "Guayaquil",
+            "provincia": "Guayas",
+            "calle_principal": "Av. Juan Tanca Marengo",
+            "calle_secundaria": "Av. Francisco de Orellana"
+        }
+    }
+]
