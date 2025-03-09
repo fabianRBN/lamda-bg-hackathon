@@ -1,0 +1,58 @@
+# Ignorar archivos de Terraform
+**/.terraform/*
+**/.terraform.lock.hcl
+**/terraform.tfstate
+**/terraform.tfstate.backup
+**/*.tfvars
+**/*.tfvars.json
+**/override.tf
+**/override.tf.json
+**/.terraform.tfstate.lock.info
+
+# Ignorar archivos de Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Ignorar archivos de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignorar archivos de configuración local
+*.local
+
+# Ignorar archivos de IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de compilación
+dist/
+build/
+out/
+.next/
+.cache/
+
+# Ignorar archivos de logs
+logs/
+*.log
+
+# Ignorar archivos de cobertura
+coverage/
+.nyc_output/
+
+# Ignorar archivos de paquetes
+*.tgz
