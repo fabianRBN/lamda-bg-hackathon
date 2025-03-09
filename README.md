@@ -34,7 +34,26 @@ provider "aws" {
   region = "us-west-2"
 }
 ```
-Despliegue
-Inicializa el proyecto de Terraform:
+## Despliegue
+### Inicializa el proyecto de Terraform:
+```bash
+terraform init
+```
+### Revisa el plan de ejecución:
 
+```bash
+terraform plan
+```
+### Aplica los cambios para desplegar la infraestructura:
+
+```bash
+terraform apply
+```
+
+
+## Contribución
+Si deseas contribuir al proyecto, por favor abre un pull request con tus cambios.
+
+## Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
